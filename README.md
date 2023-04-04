@@ -1,2 +1,2 @@
 # Submission Dicoding Pemula
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html)](https://skillicons.dev)
